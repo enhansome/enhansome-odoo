@@ -1,0 +1,345 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Odoo Community",
+          "description": "Community Official Repositories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:28:07Z",
+            "owner": "odoo",
+            "repo": "odoo",
+            "stars": 53679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odoo OWL web framework",
+          "description": "OWL web framework Official Repositories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:27:13Z",
+            "owner": "odoo",
+            "repo": "owl",
+            "stars": 1561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odoo Documentation",
+          "description": "Documentation Official Repositories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "reStructuredText",
+            "last_commit": "2026-08-13T04:27:54Z",
+            "owner": "odoo",
+            "repo": "documentation",
+            "stars": 1299
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaS Tools",
+          "description": "Repository with System to sale and manage databases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-01T16:50:06Z",
+            "owner": "it-projects-llc",
+            "repo": "odoo-saas-tools",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sunpop App Odoo",
+          "description": "Repository with modules for all versions by sunpop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-11T13:07:07Z",
+            "owner": "guohuadeng",
+            "repo": "app-odoo",
+            "stars": 450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odoo Design Themes",
+          "description": "Design Themes Official Repositories",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-13T04:27:52Z",
+            "owner": "odoo",
+            "repo": "design-themes",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaaS Addons",
+          "description": "Repository with modules for SaaS Businesses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-04T05:56:36Z",
+            "owner": "it-projects-llc",
+            "repo": "saas-addons",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odoo Enterprise",
+          "description": "Enterprise Official Repositories",
+          "children": []
+        }
+      ],
+      "title": "Repositories"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "All-in-one tools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Doodba",
+              "description": "Base (docker) image for making the creation of customized Odoo environments a piece of cake.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Dockerfile",
+                "last_commit": "2026-08-10T06:16:52Z",
+                "owner": "Tecnativa",
+                "repo": "doodba",
+                "stars": 545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "odoo-tools",
+              "description": "Generic tool/library to make management of odoo environment management easier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-07-06T20:51:01Z",
+                "owner": "odoo-plus",
+                "repo": "odootools",
+                "stars": 32
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Script",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Odoo Install Script",
+              "description": "Install Script by Yenthe Van Ginneken",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2025-12-02T09:11:07Z",
+                "owner": "Yenthe666",
+                "repo": "InstallScript",
+                "stars": 1431
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Libraries",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OdooRPC",
+              "description": "is a Python module to pilot your Odoo servers through JSON-RPC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-29T06:58:15Z",
+                "owner": "OCA",
+                "repo": "odoorpc",
+                "stars": 285
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ides",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Spacemacs",
+              "description": "A editor that combines Emacs with Vim",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Emacs Lisp",
+                "last_commit": "2026-08-11T20:30:31Z",
+                "owner": "syl20bnr",
+                "repo": "spacemacs",
+                "stars": 24578
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Report Engines",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pentaho Reports",
+              "description": "run Pentaho reports in Odoo and design them using the Pentaho report designer (doc, presentation).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2019-06-27T00:44:34Z",
+                "owner": "WilldooIT",
+                "repo": "Pentaho-reports-for-OpenERP",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aeroo Reports",
+              "description": "a versatile reporting engine with Open/LibreOffice integration (doc).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-10-01T20:03:28Z",
+                "owner": "aeroo",
+                "repo": "aeroo_reports",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Birt Reports",
+              "description": "Use Birt Viewer to generate a report",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2015-03-25T08:29:17Z",
+                "owner": "vaab",
+                "repo": "report_birt",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jasper Report Server",
+              "description": "Compose report with iReport or JasperStudio and defined printing action in odoo to retrieve the report seamlessly.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Python",
+                "last_commit": "2017-03-02T10:03:04Z",
+                "owner": "mga-team-odoo",
+                "repo": "jasperserver",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "CLI",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "click-odoo-contrib",
+              "description": "Useful scripts and utility functions, based on click-odoo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-10T22:11:32Z",
+                "owner": "acsone",
+                "repo": "click-odoo-contrib",
+                "stars": 158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "click-odoo",
+              "description": "Run python scripts in a Odoo environment",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-10T22:11:39Z",
+                "owner": "acsone",
+                "repo": "click-odoo",
+                "stars": 147
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Linters",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pylint-odoo",
+              "description": "Pylint plugin",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-08-12T19:02:28Z",
+                "owner": "OCA",
+                "repo": "pylint-odoo",
+                "stars": 169
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:28:09.651Z",
+    "original_repository": "desdelinux/awesome-odoo",
+    "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
+    "enhanced_repository": "enhansome/enhansome-odoo",
+    "enhanced_repository_description": null,
+    "title": "Awesome Odoo with stars"
+  }
+}
