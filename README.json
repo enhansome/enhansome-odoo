@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T16:01:53Z",
+            "last_commit": "2026-08-15T15:09:43Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53717
+            "stars": 53728
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-12T11:27:13Z",
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1561
+            "stars": 1562
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "reStructuredText",
-            "last_commit": "2026-08-14T16:01:49Z",
+            "last_commit": "2026-08-15T15:09:50Z",
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1300
+            "stars": 1301
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2024-05-01T16:50:06Z",
             "owner": "it-projects-llc",
             "repo": "odoo-saas-tools",
-            "stars": 630
+            "stars": 631
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-14T16:01:56Z",
+            "last_commit": "2026-08-15T15:09:48Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 195
@@ -126,7 +126,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-10T06:16:52Z",
+                "last_commit": "2026-08-14T16:24:41Z",
                 "owner": "Tecnativa",
                 "repo": "doodba",
                 "stars": 546
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:01:57.631Z",
+    "last_updated": "2026-08-15T15:31:48.696Z",
     "original_repository": "desdelinux/awesome-odoo",
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
     "enhanced_repository": "enhansome/enhansome-odoo",
