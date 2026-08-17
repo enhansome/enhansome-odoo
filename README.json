@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T15:10:54Z",
+            "last_commit": "2026-08-17T15:13:44Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53736
+            "stars": 53753
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T11:27:13Z",
+            "last_commit": "2026-08-17T14:23:46Z",
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1563
+            "stars": 1562
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "reStructuredText",
-            "last_commit": "2026-08-16T15:11:00Z",
+            "last_commit": "2026-08-17T15:13:50Z",
             "owner": "odoo",
             "repo": "documentation",
             "stars": 1300
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "SCSS",
-            "last_commit": "2026-08-16T15:10:57Z",
+            "last_commit": "2026-08-17T15:13:47Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 195
@@ -129,7 +129,7 @@
                 "last_commit": "2026-08-14T16:24:41Z",
                 "owner": "Tecnativa",
                 "repo": "doodba",
-                "stars": 546
+                "stars": 547
               }
             },
             {
@@ -335,7 +335,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T15:32:15.174Z",
+    "last_updated": "2026-08-17T15:36:51.181Z",
     "original_repository": "desdelinux/awesome-odoo",
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
     "enhanced_repository": "enhansome/enhansome-odoo",
