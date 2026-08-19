@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-18T15:34:25Z",
+            "last_commit": "2026-08-19T12:16:30Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53777
+            "stars": 53797
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178364606,
             "language": "TypeScript",
             "last_commit": "2026-08-17T14:23:46Z",
             "owner": "odoo",
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38825372,
             "language": "reStructuredText",
-            "last_commit": "2026-08-18T15:34:33Z",
+            "last_commit": "2026-08-19T12:16:36Z",
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1301
+            "stars": 1303
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21295832,
             "language": "Python",
             "last_commit": "2024-05-01T16:50:06Z",
             "owner": "it-projects-llc",
@@ -66,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98264816,
             "language": "HTML",
-            "last_commit": "2026-08-18T10:27:15Z",
+            "last_commit": "2026-08-19T11:48:05Z",
             "owner": "guohuadeng",
             "repo": "app-odoo",
             "stars": 452
@@ -80,8 +85,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362812569,
             "language": "SCSS",
-            "last_commit": "2026-08-18T15:34:29Z",
+            "last_commit": "2026-08-19T12:16:33Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 195
@@ -94,24 +100,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149109103,
             "language": "Python",
             "last_commit": "2024-06-04T05:56:36Z",
             "owner": "it-projects-llc",
             "repo": "saas-addons",
             "stars": 162
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Odoo Enterprise",
-          "description": "Enterprise Official Repositories",
-          "children": []
         }
       ],
       "title": "Repositories"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -125,8 +126,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 78112327,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-18T12:38:42Z",
+                "last_commit": "2026-08-19T10:44:50Z",
                 "owner": "Tecnativa",
                 "repo": "doodba",
                 "stars": 547
@@ -139,6 +141,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 506826910,
                 "language": "Python",
                 "last_commit": "2023-07-06T20:51:01Z",
                 "owner": "odoo-plus",
@@ -160,6 +163,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 40540607,
                 "language": "Shell",
                 "last_commit": "2025-12-02T09:11:07Z",
                 "owner": "Yenthe666",
@@ -181,6 +185,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 105557098,
                 "language": "Python",
                 "last_commit": "2026-07-29T06:58:15Z",
                 "owner": "OCA",
@@ -202,6 +207,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 7212645,
                 "language": "Emacs Lisp",
                 "last_commit": "2026-08-18T05:52:08Z",
                 "owner": "syl20bnr",
@@ -223,6 +229,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3244490,
                 "language": "Python",
                 "last_commit": "2019-06-27T00:44:34Z",
                 "owner": "WilldooIT",
@@ -237,6 +244,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 20015350,
                 "language": "Python",
                 "last_commit": "2023-10-01T20:03:28Z",
                 "owner": "aeroo",
@@ -251,6 +259,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 5687412,
                 "language": "Python",
                 "last_commit": "2015-03-25T08:29:17Z",
                 "owner": "vaab",
@@ -265,6 +274,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 22680061,
                 "language": "Python",
                 "last_commit": "2017-03-02T10:03:04Z",
                 "owner": "mga-team-odoo",
@@ -286,6 +296,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 126186435,
                 "language": "Python",
                 "last_commit": "2026-08-17T22:36:16Z",
                 "owner": "acsone",
@@ -300,6 +311,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 125650970,
                 "language": "Python",
                 "last_commit": "2026-08-17T22:36:15Z",
                 "owner": "acsone",
@@ -321,8 +333,9 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 43686408,
                 "language": "Python",
-                "last_commit": "2026-08-12T19:02:28Z",
+                "last_commit": "2026-08-19T06:51:52Z",
                 "owner": "OCA",
                 "repo": "pylint-odoo",
                 "stars": 169
@@ -335,8 +348,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T15:41:36.303Z",
+    "last_updated": "2026-08-19T12:44:25.766Z",
     "original_repository": "desdelinux/awesome-odoo",
+    "original_repository_id": 400891524,
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
     "enhanced_repository": "enhansome/enhansome-odoo",
     "enhanced_repository_description": null,
