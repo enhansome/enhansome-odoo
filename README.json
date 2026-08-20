@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-19T15:36:07Z",
+            "last_commit": "2026-08-20T15:42:26Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53799
+            "stars": 53821
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 38825372,
             "language": "reStructuredText",
-            "last_commit": "2026-08-19T15:36:14Z",
+            "last_commit": "2026-08-20T15:42:33Z",
             "owner": "odoo",
             "repo": "documentation",
             "stars": 1303
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 362812569,
             "language": "SCSS",
-            "last_commit": "2026-08-19T15:36:11Z",
+            "last_commit": "2026-08-20T15:42:30Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 195
@@ -128,7 +128,7 @@
                 "archived": false,
                 "id": 78112327,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-19T15:29:31Z",
+                "last_commit": "2026-08-20T14:12:01Z",
                 "owner": "Tecnativa",
                 "repo": "doodba",
                 "stars": 546
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-18T05:52:08Z",
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24556
+                "stars": 24557
               }
             }
           ]
@@ -335,7 +335,7 @@
                 "archived": false,
                 "id": 43686408,
                 "language": "Python",
-                "last_commit": "2026-08-19T06:51:52Z",
+                "last_commit": "2026-08-19T17:31:46Z",
                 "owner": "OCA",
                 "repo": "pylint-odoo",
                 "stars": 169
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:41:29.032Z",
+    "last_updated": "2026-08-20T15:45:16.806Z",
     "original_repository": "desdelinux/awesome-odoo",
     "original_repository_id": 400891524,
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
