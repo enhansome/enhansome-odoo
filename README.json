@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-21T15:44:25Z",
+            "last_commit": "2026-08-22T15:15:20Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53837
+            "stars": 53857
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-21T15:18:32Z",
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1561
+            "stars": 1563
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 38825372,
             "language": "reStructuredText",
-            "last_commit": "2026-08-21T15:44:04Z",
+            "last_commit": "2026-08-22T15:15:25Z",
             "owner": "odoo",
             "repo": "documentation",
             "stars": 1304
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 362812569,
             "language": "SCSS",
-            "last_commit": "2026-08-21T15:44:01Z",
+            "last_commit": "2026-08-22T15:15:23Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 195
@@ -168,7 +168,7 @@
                 "last_commit": "2025-12-02T09:11:07Z",
                 "owner": "Yenthe666",
                 "repo": "InstallScript",
-                "stars": 1432
+                "stars": 1433
               }
             }
           ]
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-18T05:52:08Z",
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24558
+                "stars": 24559
               }
             }
           ]
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T15:44:28.175Z",
+    "last_updated": "2026-08-22T15:31:53.549Z",
     "original_repository": "desdelinux/awesome-odoo",
     "original_repository_id": 400891524,
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
