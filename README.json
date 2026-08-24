@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-24T14:11:21Z",
+            "last_commit": "2026-08-24T15:48:37Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53910
+            "stars": 53912
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 38825372,
             "language": "reStructuredText",
-            "last_commit": "2026-08-24T14:17:04Z",
+            "last_commit": "2026-08-24T15:48:46Z",
             "owner": "odoo",
             "repo": "documentation",
             "stars": 1305
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 362812569,
             "language": "SCSS",
-            "last_commit": "2026-08-24T14:11:25Z",
+            "last_commit": "2026-08-24T15:48:42Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 195
@@ -168,7 +168,7 @@
                 "last_commit": "2026-08-24T11:23:17Z",
                 "owner": "Yenthe666",
                 "repo": "InstallScript",
-                "stars": 1433
+                "stars": 1434
               }
             }
           ]
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:23:57.129Z",
+    "last_updated": "2026-08-24T15:51:38.611Z",
     "original_repository": "desdelinux/awesome-odoo",
     "original_repository_id": 400891524,
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",

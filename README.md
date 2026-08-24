@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,800 | 🐛 17 | 🌐 Python | 📅 2026-08-24.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,806 | 🐛 17 | 🌐 Python | 📅 2026-08-24.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,9 +47,9 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,80
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 53,910 | 🐛 10,450 | 🌐 Python | 📅 2026-08-24 - Community Official Repositories
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 53,912 | 🐛 10,432 | 🌐 Python | 📅 2026-08-24 - Community Official Repositories
 * [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,564 | 🐛 194 | 🌐 TypeScript | 📅 2026-08-24 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,305 | 🐛 352 | 🌐 reStructuredText | 📅 2026-08-24 - Documentation Official Repositories
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,305 | 🐛 351 | 🌐 reStructuredText | 📅 2026-08-24 - Documentation Official Repositories
 * [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 632 | 🐛 124 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
 * [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 452 | 🐛 3 | 🌐 HTML | 📅 2026-08-21 - Repository with modules for all versions by sunpop
 * [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 195 | 🐛 32 | 🌐 SCSS | 📅 2026-08-24 - Design Themes Official Repositories
@@ -72,7 +72,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 315,80
   * [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 
 * Script
-  * [Odoo Install Script](https://github.com/Yenthe666/InstallScript) ⭐ 1,433 | 🐛 68 | 🌐 Shell | 📅 2026-08-24 - Install Script by Yenthe Van Ginneken
+  * [Odoo Install Script](https://github.com/Yenthe666/InstallScript) ⭐ 1,434 | 🐛 68 | 🌐 Shell | 📅 2026-08-24 - Install Script by Yenthe Van Ginneken
   * [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
   * [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
   * [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module.
