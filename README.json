@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-25T15:48:25Z",
+            "last_commit": "2026-08-26T16:31:19Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53935
+            "stars": 53963
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 178364606,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T08:50:38Z",
+            "last_commit": "2026-08-26T12:10:14Z",
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1565
+            "stars": 1566
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 38825372,
             "language": "reStructuredText",
-            "last_commit": "2026-08-25T15:48:34Z",
+            "last_commit": "2026-08-26T16:31:23Z",
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1305
+            "stars": 1306
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 98264816,
             "language": "HTML",
-            "last_commit": "2026-08-25T11:19:55Z",
+            "last_commit": "2026-08-26T08:37:06Z",
             "owner": "guohuadeng",
             "repo": "app-odoo",
-            "stars": 452
+            "stars": 453
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 362812569,
             "language": "SCSS",
-            "last_commit": "2026-08-25T15:48:31Z",
+            "last_commit": "2026-08-26T16:31:11Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 196
@@ -128,7 +128,7 @@
                 "archived": false,
                 "id": 78112327,
                 "language": "Dockerfile",
-                "last_commit": "2026-08-25T15:12:36Z",
+                "last_commit": "2026-08-25T16:46:37Z",
                 "owner": "Tecnativa",
                 "repo": "doodba",
                 "stars": 546
@@ -212,7 +212,7 @@
                 "last_commit": "2026-08-23T17:11:07Z",
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24560
+                "stars": 24562
               }
             }
           ]
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:55:15.201Z",
+    "last_updated": "2026-08-26T16:32:48.487Z",
     "original_repository": "desdelinux/awesome-odoo",
     "original_repository_id": 400891524,
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
