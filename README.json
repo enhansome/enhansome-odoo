@@ -12,10 +12,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-27T11:54:59Z",
+            "last_commit": "2026-08-28T00:22:03Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53981
+            "stars": 53990
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 178364606,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:42:15Z",
+            "last_commit": "2026-08-27T14:01:36Z",
             "owner": "odoo",
             "repo": "owl",
             "stars": 1566
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 38825372,
             "language": "reStructuredText",
-            "last_commit": "2026-08-27T11:55:37Z",
+            "last_commit": "2026-08-28T00:22:11Z",
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1307
+            "stars": 1309
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 362812569,
             "language": "SCSS",
-            "last_commit": "2026-08-27T11:55:05Z",
+            "last_commit": "2026-08-28T00:22:08Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 196
@@ -348,7 +348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:33.082Z",
+    "last_updated": "2026-08-28T00:22:18.652Z",
     "original_repository_info": {
       "archived": false,
       "id": 400891524,
