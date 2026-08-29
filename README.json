@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "homepage": "https://www.odoo.com",
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-28T23:59:39Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:04:58Z",
+            "open_issues": 10409,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54016
+            "stars": 54018,
+            "topics": [
+              "apps",
+              "business",
+              "erp",
+              "management",
+              "odoo",
+              "odoo-apps",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OWL: A web framework for structured, dynamic and maintainable applications",
+            "homepage": "https://odoo.github.io/owl/",
             "id": 178364606,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:17:27Z",
+            "open_issues": 195,
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1567
+            "stars": 1567,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
         },
@@ -42,12 +60,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odoo documentation sources",
+            "homepage": "https://www.odoo.com/documentation/",
             "id": 38825372,
             "language": "reStructuredText",
-            "last_commit": "2026-08-28T23:59:44Z",
+            "license": "CC-BY-SA-4.0",
+            "last_commit": "2026-08-29T04:37:21Z",
+            "open_issues": 342,
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1310
+            "stars": 1310,
+            "topics": [
+              "documentation",
+              "odoo"
+            ]
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
         },
@@ -58,12 +84,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odoo SaaS Tools — tools for SaaS Businesses. Sale and manage Odoo databases.",
+            "homepage": "https://saas.it-projects.info",
             "id": 21295832,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2024-05-01T16:50:06Z",
+            "open_issues": 124,
             "owner": "it-projects-llc",
             "repo": "odoo-saas-tools",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "odoo"
+            ]
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
         },
@@ -74,12 +107,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH。Odoo的社区版、企业版、.sh版等全版本开源免费增强模块应用集合。",
+            "homepage": "https://www.odooai.cn",
             "id": 98264816,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-28T13:02:05Z",
+            "open_issues": 3,
             "owner": "guohuadeng",
             "repo": "app-odoo",
-            "stars": 454
+            "stars": 454,
+            "topics": [
+              "addon",
+              "module",
+              "odoo"
+            ]
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
         },
@@ -90,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 362812569,
             "language": "SCSS",
-            "last_commit": "2026-08-28T23:59:42Z",
+            "license": null,
+            "last_commit": "2026-08-29T04:05:02Z",
+            "open_issues": 31,
             "owner": "odoo",
             "repo": "design-themes",
-            "stars": 196
+            "stars": 197,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
         },
@@ -106,12 +153,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odoo modules for SaaS Businesses. Sale and manage Odoo databases.",
+            "homepage": "https://saas.it-projects.info",
             "id": 149109103,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-04T05:56:36Z",
+            "open_issues": 28,
             "owner": "it-projects-llc",
             "repo": "saas-addons",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
         }
@@ -133,12 +185,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Base image for making the creation of customized Odoo environments a piece of cake",
+                "homepage": null,
                 "id": 78112327,
                 "language": "Dockerfile",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T16:46:37Z",
+                "open_issues": 23,
                 "owner": "Tecnativa",
                 "repo": "doodba",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "docker",
+                  "doodba",
+                  "hacktoberfest",
+                  "odoo"
+                ]
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             },
@@ -149,12 +211,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Odoo Tools",
+                "homepage": null,
                 "id": 506826910,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-07-06T20:51:01Z",
+                "open_issues": 2,
                 "owner": "odoo-plus",
                 "repo": "odootools",
-                "stars": 32
+                "stars": 32,
+                "topics": [
+                  "erp",
+                  "odoo",
+                  "odoo-project",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             }
@@ -172,12 +244,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Odoo install script",
+                "homepage": null,
                 "id": 40540607,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-24T11:23:17Z",
+                "open_issues": 68,
                 "owner": "Yenthe666",
                 "repo": "InstallScript",
-                "stars": 1434
+                "stars": 1434,
+                "topics": [
+                  "odoo"
+                ]
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             }
@@ -195,12 +274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module to pilot your Odoo servers through JSON-RPC.",
+                "homepage": "http://pythonhosted.org/OdooRPC/",
                 "id": 105557098,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-29T06:58:15Z",
+                "open_issues": 23,
                 "owner": "OCA",
                 "repo": "odoorpc",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             }
@@ -218,12 +302,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!",
+                "homepage": "http://spacemacs.org",
                 "id": 7212645,
                 "language": "Emacs Lisp",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-23T17:11:07Z",
+                "open_issues": 61,
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24562
+                "stars": 24562,
+                "topics": [
+                  "community-driven",
+                  "configuration",
+                  "emacs",
+                  "spacemacs",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             }
@@ -241,12 +336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integration for OpenERP to Pentaho.",
+                "homepage": null,
                 "id": 3244490,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2019-06-27T00:44:34Z",
+                "open_issues": 42,
                 "owner": "WilldooIT",
                 "repo": "Pentaho-reports-for-OpenERP",
-                "stars": 90
+                "stars": 90,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             },
@@ -257,12 +357,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aeroo Reports",
+                "homepage": "http://www.alistek.com/wiki/index.php/Main_Page",
                 "id": 20015350,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-01T20:03:28Z",
+                "open_issues": 39,
                 "owner": "aeroo",
                 "repo": "aeroo_reports",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "aeroo",
+                  "alistek",
+                  "odoo",
+                  "openerp",
+                  "reports"
+                ]
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             },
@@ -273,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BIRT Report module for OpenERP",
+                "homepage": null,
                 "id": 5687412,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-03-25T08:29:17Z",
+                "open_issues": 4,
                 "owner": "vaab",
                 "repo": "report_birt",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             },
@@ -289,12 +405,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "JasperServer module for OpenERP/Odoo",
+                "homepage": null,
                 "id": 22680061,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-03-02T10:03:04Z",
+                "open_issues": 0,
                 "owner": "mga-team-odoo",
                 "repo": "jasperserver",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             }
@@ -312,12 +433,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Useful Odoo scripts and utility functions, based on click-odoo",
+                "homepage": null,
                 "id": 126186435,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-24T22:06:29Z",
+                "open_issues": 33,
                 "owner": "acsone",
                 "repo": "click-odoo-contrib",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             },
@@ -328,12 +454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run python scripts in a Odoo environment",
+                "homepage": null,
                 "id": 125650970,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-24T22:06:27Z",
+                "open_issues": 9,
                 "owner": "acsone",
                 "repo": "click-odoo",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             }
@@ -351,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Odoo plugin for Pylint",
+                "homepage": "http://www.pylint.org",
                 "id": 43686408,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-19T17:31:46Z",
+                "open_issues": 1,
                 "owner": "OCA",
                 "repo": "pylint-odoo",
-                "stars": 170
+                "stars": 170,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
             }
@@ -367,15 +503,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:00:17.624Z",
+    "last_updated": "2026-08-29T04:42:53.840Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Odoo resources",
+      "homepage": "https://desdelinux.github.io/awesome-odoo",
       "id": 400891524,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2025-10-22T03:15:01Z",
+      "open_issues": 6,
       "owner": "desdelinux",
       "repo": "awesome-odoo",
-      "stars": 425
+      "stars": 425,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "collections",
+        "odoo",
+        "odoo-addons",
+        "odoo-modules",
+        "odoo-project",
+        "python"
+      ]
     },
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
     "enhanced_repository": "enhansome/enhansome-odoo",
