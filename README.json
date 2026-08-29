@@ -12,11 +12,12 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-28T00:22:03Z",
+            "last_commit": "2026-08-28T23:59:39Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53990
-          }
+            "stars": 54016
+          },
+          "first_seen": "2026-08-29T00:00:17.624Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 178364606,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:01:36Z",
+            "last_commit": "2026-08-28T13:17:27Z",
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1566
-          }
+            "stars": 1567
+          },
+          "first_seen": "2026-08-29T00:00:17.624Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 38825372,
             "language": "reStructuredText",
-            "last_commit": "2026-08-28T00:22:11Z",
+            "last_commit": "2026-08-28T23:59:44Z",
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1309
-          }
+            "stars": 1310
+          },
+          "first_seen": "2026-08-29T00:00:17.624Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "it-projects-llc",
             "repo": "odoo-saas-tools",
             "stars": 632
-          }
+          },
+          "first_seen": "2026-08-29T00:00:17.624Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 98264816,
             "language": "HTML",
-            "last_commit": "2026-08-26T08:37:06Z",
+            "last_commit": "2026-08-28T13:02:05Z",
             "owner": "guohuadeng",
             "repo": "app-odoo",
-            "stars": 453
-          }
+            "stars": 454
+          },
+          "first_seen": "2026-08-29T00:00:17.624Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 362812569,
             "language": "SCSS",
-            "last_commit": "2026-08-28T00:22:08Z",
+            "last_commit": "2026-08-28T23:59:42Z",
             "owner": "odoo",
             "repo": "design-themes",
             "stars": 196
-          }
+          },
+          "first_seen": "2026-08-29T00:00:17.624Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "it-projects-llc",
             "repo": "saas-addons",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-29T00:00:17.624Z"
         }
       ],
       "title": "Repositories"
@@ -132,7 +139,8 @@
                 "owner": "Tecnativa",
                 "repo": "doodba",
                 "stars": 546
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             },
             {
               "node_type": "item",
@@ -147,7 +155,8 @@
                 "owner": "odoo-plus",
                 "repo": "odootools",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             }
           ]
         },
@@ -168,8 +177,9 @@
                 "last_commit": "2026-08-24T11:23:17Z",
                 "owner": "Yenthe666",
                 "repo": "InstallScript",
-                "stars": 1435
-              }
+                "stars": 1434
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             }
           ]
         },
@@ -191,7 +201,8 @@
                 "owner": "OCA",
                 "repo": "odoorpc",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             }
           ]
         },
@@ -212,8 +223,9 @@
                 "last_commit": "2026-08-23T17:11:07Z",
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24563
-              }
+                "stars": 24562
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             }
           ]
         },
@@ -235,7 +247,8 @@
                 "owner": "WilldooIT",
                 "repo": "Pentaho-reports-for-OpenERP",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             },
             {
               "node_type": "item",
@@ -250,7 +263,8 @@
                 "owner": "aeroo",
                 "repo": "aeroo_reports",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             },
             {
               "node_type": "item",
@@ -265,7 +279,8 @@
                 "owner": "vaab",
                 "repo": "report_birt",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             },
             {
               "node_type": "item",
@@ -280,7 +295,8 @@
                 "owner": "mga-team-odoo",
                 "repo": "jasperserver",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             }
           ]
         },
@@ -302,7 +318,8 @@
                 "owner": "acsone",
                 "repo": "click-odoo-contrib",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             },
             {
               "node_type": "item",
@@ -317,7 +334,8 @@
                 "owner": "acsone",
                 "repo": "click-odoo",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             }
           ]
         },
@@ -339,7 +357,8 @@
                 "owner": "OCA",
                 "repo": "pylint-odoo",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-29T00:00:17.624Z"
             }
           ]
         }
@@ -348,7 +367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:22:18.652Z",
+    "last_updated": "2026-08-29T00:00:17.624Z",
     "original_repository_info": {
       "archived": false,
       "id": 400891524,
@@ -356,7 +375,7 @@
       "last_commit": "2025-10-22T03:15:01Z",
       "owner": "desdelinux",
       "repo": "awesome-odoo",
-      "stars": 424
+      "stars": 425
     },
     "original_repository_sha": "9adc32044051c77c8287408ea7679a4235112890",
     "enhanced_repository": "enhansome/enhansome-odoo",
