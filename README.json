@@ -15,11 +15,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T18:19:25Z",
-            "open_issues": 10363,
+            "last_commit": "2026-09-05T17:03:49Z",
+            "open_issues": 10351,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54162,
+            "stars": 54178,
             "topics": [
               "apps",
               "business",
@@ -48,7 +48,7 @@
             "open_issues": 196,
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1573,
+            "stars": 1574,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
@@ -65,11 +65,11 @@
             "id": 38825372,
             "language": "reStructuredText",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-04T18:19:34Z",
-            "open_issues": 334,
+            "last_commit": "2026-09-05T17:03:23Z",
+            "open_issues": 335,
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1318,
+            "stars": 1319,
             "topics": [
               "documentation",
               "odoo"
@@ -137,7 +137,7 @@
             "id": 362812569,
             "language": "SCSS",
             "license": null,
-            "last_commit": "2026-09-04T18:19:28Z",
+            "last_commit": "2026-09-05T17:03:15Z",
             "open_issues": 32,
             "owner": "odoo",
             "repo": "design-themes",
@@ -253,7 +253,7 @@
                 "open_issues": 68,
                 "owner": "Yenthe666",
                 "repo": "InstallScript",
-                "stars": 1435,
+                "stars": 1436,
                 "topics": [
                   "odoo"
                 ]
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:19:46.384Z",
+    "last_updated": "2026-09-05T17:16:57.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Odoo resources",
@@ -512,10 +512,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2025-10-22T03:15:01Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "desdelinux",
       "repo": "awesome-odoo",
-      "stars": 425,
+      "stars": 426,
       "topics": [
         "awesome",
         "awesome-list",
