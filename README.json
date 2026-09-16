@@ -15,11 +15,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-15T18:52:43Z",
-            "open_issues": 10279,
+            "last_commit": "2026-09-16T18:50:59Z",
+            "open_issues": 10343,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54380,
+            "stars": 54399,
             "topics": [
               "apps",
               "business",
@@ -48,7 +48,7 @@
             "open_issues": 197,
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1580,
+            "stars": 1581,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
@@ -65,8 +65,8 @@
             "id": 38825372,
             "language": "reStructuredText",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-15T18:52:49Z",
-            "open_issues": 338,
+            "last_commit": "2026-09-16T18:51:05Z",
+            "open_issues": 337,
             "owner": "odoo",
             "repo": "documentation",
             "stars": 1329,
@@ -137,7 +137,7 @@
             "id": 362812569,
             "language": "SCSS",
             "license": null,
-            "last_commit": "2026-09-15T18:52:46Z",
+            "last_commit": "2026-09-16T18:51:02Z",
             "open_issues": 30,
             "owner": "odoo",
             "repo": "design-themes",
@@ -311,7 +311,7 @@
                 "open_issues": 61,
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24562,
+                "stars": 24560,
                 "topics": [
                   "community-driven",
                   "configuration",
@@ -491,7 +491,7 @@
                 "open_issues": 1,
                 "owner": "OCA",
                 "repo": "pylint-odoo",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T18:55:01.201Z",
+    "last_updated": "2026-09-16T18:51:05.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Odoo resources",
