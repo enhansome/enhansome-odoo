@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 321,063 | 🐛 19 | 🌐 Python | 📅 2026-09-15.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 321,289 | 🐛 21 | 🌐 Python | 📅 2026-09-15.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,12 +47,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 321,06
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 54,399 | 🐛 10,343 | 🌐 Python | 📅 2026-09-16 - Community Official Repositories
-* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,581 | 🐛 197 | 🌐 TypeScript | 📅 2026-09-11 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,329 | 🐛 337 | 🌐 reStructuredText | 📅 2026-09-16 - Documentation Official Repositories
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 54,424 | 🐛 10,399 | 🌐 Python | 📅 2026-09-17 - Community Official Repositories
+* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,582 | 🐛 197 | 🌐 TypeScript | 📅 2026-09-11 - OWL web framework Official Repositories
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,330 | 🐛 328 | 🌐 reStructuredText | 📅 2026-09-17 - Documentation Official Repositories
 * [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 634 | 🐛 124 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
-* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 456 | 🐛 3 | 🌐 HTML | 📅 2026-09-15 - Repository with modules for all versions by sunpop
-* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 200 | 🐛 30 | 🌐 SCSS | 📅 2026-09-16 - Design Themes Official Repositories
+* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 456 | 🐛 3 | 🌐 HTML | 📅 2026-09-17 - Repository with modules for all versions by sunpop
+* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 200 | 🐛 29 | 🌐 SCSS | 📅 2026-09-17 - Design Themes Official Repositories
 * [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 28 | 🌐 Python | 📅 2024-06-04 - Repository with modules for SaaS Businesses.
 * [Odoo](https://github.com/odoo) - The Official GitHub repos
 * [OCA](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
@@ -72,7 +72,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 321,06
   * [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 
 * Script
-  * [Odoo Install Script](https://github.com/Yenthe666/InstallScript) ⭐ 1,435 | 🐛 68 | 🌐 Shell | 📅 2026-08-24 - Install Script by Yenthe Van Ginneken
+  * [Odoo Install Script](https://github.com/Yenthe666/InstallScript) ⭐ 1,436 | 🐛 68 | 🌐 Shell | 📅 2026-08-24 - Install Script by Yenthe Van Ginneken
   * [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
   * [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
   * [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module.
@@ -83,7 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 321,06
   * [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
 
 * Ides
-  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,560 | 🐛 61 | 🌐 Emacs Lisp | 📅 2026-09-15 - A editor that combines Emacs with Vim
+  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,559 | 🐛 61 | 🌐 Emacs Lisp | 📅 2026-09-15 - A editor that combines Emacs with Vim
   * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
   * [Pycharm](http://www.jetbrains.com/pycharm/) - An integrated development environment used in computer programming, specifically for the Python language
   * [Sublime Text](http://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
@@ -95,7 +95,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 321,06
   * [Jasper Report Server](https://github.com/mga-team-odoo/jasperserver) ⚠️ Archived: Compose report with iReport or JasperStudio and defined printing action in odoo to retrieve the report seamlessly.
 
 * CLI
-  * [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) ⭐ 157 | 🐛 35 | 🌐 Python | 📅 2026-09-14 - Useful scripts and utility functions, based on click-odoo
+  * [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) ⭐ 157 | 🐛 37 | 🌐 Python | 📅 2026-09-14 - Useful scripts and utility functions, based on click-odoo
   * [click-odoo](https://github.com/acsone/click-odoo) ⭐ 148 | 🐛 9 | 🌐 Python | 📅 2026-09-14 - Run python scripts in a Odoo environment
 
 * Linters
@@ -188,7 +188,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 321,06
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/desdelinux/awesome-odoo/blob/master/CONTRIBUTING.md) ⭐ 427 | 🐛 7 | 📅 2025-10-22 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/desdelinux/awesome-odoo/blob/master/CONTRIBUTING.md) ⭐ 428 | 🐛 7 | 📅 2025-10-22 first.
 
 ***
 
@@ -196,4 +196,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
