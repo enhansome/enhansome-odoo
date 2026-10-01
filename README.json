@@ -15,11 +15,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T18:59:55Z",
-            "open_issues": 10682,
+            "last_commit": "2026-10-01T20:14:37Z",
+            "open_issues": 10702,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54757,
+            "stars": 54781,
             "topics": [
               "apps",
               "business",
@@ -44,8 +44,8 @@
             "id": 178364606,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T09:10:59Z",
-            "open_issues": 199,
+            "last_commit": "2026-10-01T13:39:46Z",
+            "open_issues": 200,
             "owner": "odoo",
             "repo": "owl",
             "stars": 1590,
@@ -65,11 +65,11 @@
             "id": 38825372,
             "language": "reStructuredText",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-09-30T19:42:32Z",
+            "last_commit": "2026-10-01T20:14:42Z",
             "open_issues": 334,
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1343,
+            "stars": 1346,
             "topics": [
               "documentation",
               "odoo"
@@ -93,7 +93,7 @@
             "open_issues": 123,
             "owner": "it-projects-llc",
             "repo": "odoo-saas-tools",
-            "stars": 634,
+            "stars": 635,
             "topics": [
               "odoo"
             ]
@@ -137,11 +137,11 @@
             "id": 362812569,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-09-30T18:59:59Z",
+            "last_commit": "2026-10-01T20:14:40Z",
             "open_issues": 34,
             "owner": "odoo",
             "repo": "design-themes",
-            "stars": 203,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
@@ -283,7 +283,7 @@
                 "open_issues": 22,
                 "owner": "OCA",
                 "repo": "odoorpc",
-                "stars": 286,
+                "stars": 287,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:00:17.624Z"
@@ -308,10 +308,10 @@
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-26T00:10:45Z",
-                "open_issues": 64,
+                "open_issues": 63,
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24563,
+                "stars": 24545,
                 "topics": [
                   "community-driven",
                   "configuration",
@@ -487,8 +487,8 @@
                 "id": 43686408,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-25T21:48:46Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-01T16:10:11Z",
+                "open_issues": 2,
                 "owner": "OCA",
                 "repo": "pylint-odoo",
                 "stars": 172,
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T19:56:45.382Z",
+    "last_updated": "2026-10-01T20:19:04.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Odoo resources",
