@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,781 | 🐛 21 | 🌐 Python | 📅 2026-10-02.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,901 | 🐛 22 | 🌐 Python | 📅 2026-10-02.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,7 +47,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,78
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 54,809 | 🐛 10,689 | 🌐 Python | 📅 2026-10-03 - Community Official Repositories
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 54,814 | 🐛 10,672 | 🌐 Python | 📅 2026-10-03 - Community Official Repositories
 * [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,591 | 🐛 198 | 🌐 TypeScript | 📅 2026-10-01 - OWL web framework Official Repositories
 * [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,350 | 🐛 328 | 🌐 reStructuredText | 📅 2026-10-03 - Documentation Official Repositories
 * [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 635 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
@@ -83,7 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 324,78
   * [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
 
 * Ides
-  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,544 | 🐛 61 | 🌐 Emacs Lisp | 📅 2026-10-03 - A editor that combines Emacs with Vim
+  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,542 | 🐛 61 | 🌐 Emacs Lisp | 📅 2026-10-03 - A editor that combines Emacs with Vim
   * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
   * [Pycharm](http://www.jetbrains.com/pycharm/) - An integrated development environment used in computer programming, specifically for the Python language
   * [Sublime Text](http://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
