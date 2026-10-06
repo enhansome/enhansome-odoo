@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,393 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,516 | 🐛 19 | 🌐 Python | 📅 2026-10-02.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,12 +47,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,39
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 54,840 | 🐛 10,706 | 🌐 Python | 📅 2026-10-05 - Community Official Repositories
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 54,855 | 🐛 10,698 | 🌐 Python | 📅 2026-10-06 - Community Official Repositories
 * [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,590 | 🐛 198 | 🌐 TypeScript | 📅 2026-10-01 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,349 | 🐛 333 | 🌐 reStructuredText | 📅 2026-10-05 - Documentation Official Repositories
-* [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 634 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,349 | 🐛 334 | 🌐 reStructuredText | 📅 2026-10-06 - Documentation Official Repositories
+* [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 635 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
 * [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 458 | 🐛 3 | 🌐 HTML | 📅 2026-09-30 - Repository with modules for all versions by sunpop
-* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 203 | 🐛 34 | 🌐 HTML | 📅 2026-10-05 - Design Themes Official Repositories
+* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 203 | 🐛 34 | 🌐 HTML | 📅 2026-10-06 - Design Themes Official Repositories
 * [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 28 | 🌐 Python | 📅 2024-06-04 - Repository with modules for SaaS Businesses.
 * [Odoo](https://github.com/odoo) - The Official GitHub repos
 * [OCA](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
@@ -65,7 +65,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,39
 ## Tools
 
 * All-in-one tools
-  * [Doodba](https://github.com/tecnativa/doodba) ⭐ 547 | 🐛 22 | 🌐 Dockerfile | 📅 2026-10-02 - Base (docker) image for making the creation of customized Odoo environments a piece of cake.
+  * [Doodba](https://github.com/tecnativa/doodba) ⭐ 548 | 🐛 22 | 🌐 Dockerfile | 📅 2026-10-02 - Base (docker) image for making the creation of customized Odoo environments a piece of cake.
   * [odoo-tools](https://github.com/llacroix/odoo-tools) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2023-07-06 - Generic tool/library to make management of odoo environment management easier.
 
 * Search Engine
@@ -95,8 +95,8 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 325,39
   * [Jasper Report Server](https://github.com/mga-team-odoo/jasperserver) ⚠️ Archived: Compose report with iReport or JasperStudio and defined printing action in odoo to retrieve the report seamlessly.
 
 * CLI
-  * [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) ⭐ 158 | 🐛 34 | 🌐 Python | 📅 2026-09-28 - Useful scripts and utility functions, based on click-odoo
-  * [click-odoo](https://github.com/acsone/click-odoo) ⭐ 148 | 🐛 9 | 🌐 Python | 📅 2026-09-28 - Run python scripts in a Odoo environment
+  * [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) ⭐ 158 | 🐛 34 | 🌐 Python | 📅 2026-10-06 - Useful scripts and utility functions, based on click-odoo
+  * [click-odoo](https://github.com/acsone/click-odoo) ⭐ 148 | 🐛 9 | 🌐 Python | 📅 2026-10-06 - Run python scripts in a Odoo environment
 
 * Linters
   * [pylint-odoo](https://github.com/OCA/pylint-odoo) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2026-10-05 - Pylint plugin
@@ -196,4 +196,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
