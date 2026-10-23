@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 329,452 | 🐛 18 | 🌐 Python | 📅 2026-10-22.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 329,692 | 🐛 17 | 🌐 Python | 📅 2026-10-22.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,13 +47,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 329,45
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,253 | 🐛 11,067 | 🌐 Python | 📅 2026-10-22 - Community Official Repositories
-* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,600 | 🐛 200 | 🌐 TypeScript | 📅 2026-10-19 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,366 | 🐛 356 | 🌐 reStructuredText | 📅 2026-10-22 - Documentation Official Repositories
-* [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 636 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
-* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 459 | 🐛 3 | 🌐 HTML | 📅 2026-10-22 - Repository with modules for all versions by sunpop
-* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 204 | 🐛 35 | 🌐 HTML | 📅 2026-10-22 - Design Themes Official Repositories
-* [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 28 | 🌐 Python | 📅 2024-06-04 - Repository with modules for SaaS Businesses.
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,284 | 🐛 11,111 | 🌐 Python | 📅 2026-10-23 - Community Official Repositories
+* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,599 | 🐛 199 | 🌐 TypeScript | 📅 2026-10-19 - OWL web framework Official Repositories
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,367 | 🐛 359 | 🌐 reStructuredText | 📅 2026-10-23 - Documentation Official Repositories
+* [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 637 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
+* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 459 | 🐛 3 | 🌐 HTML | 📅 2026-10-23 - Repository with modules for all versions by sunpop
+* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 204 | 🐛 35 | 🌐 HTML | 📅 2026-10-23 - Design Themes Official Repositories
+* [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 29 | 🌐 Python | 📅 2024-06-04 - Repository with modules for SaaS Businesses.
 * [Odoo](https://github.com/odoo) - The Official GitHub repos
 * [OCA](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
 * [Odoo Enterprise](https://github.com/odoo/enterprise) - Enterprise Official Repositories
@@ -65,14 +65,14 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 329,45
 ## Tools
 
 * All-in-one tools
-  * [Doodba](https://github.com/tecnativa/doodba) ⭐ 552 | 🐛 24 | 🌐 Dockerfile | 📅 2026-10-19 - Base (docker) image for making the creation of customized Odoo environments a piece of cake.
+  * [Doodba](https://github.com/tecnativa/doodba) ⭐ 553 | 🐛 24 | 🌐 Dockerfile | 📅 2026-10-19 - Base (docker) image for making the creation of customized Odoo environments a piece of cake.
   * [odoo-tools](https://github.com/llacroix/odoo-tools) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2023-07-06 - Generic tool/library to make management of odoo environment management easier.
 
 * Search Engine
   * [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 
 * Script
-  * [Odoo Install Script](https://github.com/Yenthe666/InstallScript) ⭐ 1,438 | 🐛 69 | 🌐 Shell | 📅 2026-09-20 - Install Script by Yenthe Van Ginneken
+  * [Odoo Install Script](https://github.com/Yenthe666/InstallScript) ⭐ 1,439 | 🐛 69 | 🌐 Shell | 📅 2026-09-20 - Install Script by Yenthe Van Ginneken
   * [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
   * [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
   * [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module.
@@ -83,7 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 329,45
   * [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
 
 * Ides
-  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,546 | 🐛 62 | 🌐 Emacs Lisp | 📅 2026-10-20 - A editor that combines Emacs with Vim
+  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,545 | 🐛 63 | 🌐 Emacs Lisp | 📅 2026-10-20 - A editor that combines Emacs with Vim
   * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
   * [Pycharm](http://www.jetbrains.com/pycharm/) - An integrated development environment used in computer programming, specifically for the Python language
   * [Sublime Text](http://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
@@ -196,4 +196,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
