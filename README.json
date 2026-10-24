@@ -15,11 +15,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T18:51:25Z",
-            "open_issues": 11111,
+            "last_commit": "2026-10-24T18:03:50Z",
+            "open_issues": 11092,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55284,
+            "stars": 55300,
             "topics": [
               "apps",
               "business",
@@ -48,7 +48,7 @@
             "open_issues": 199,
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1599,
+            "stars": 1600,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
@@ -65,11 +65,11 @@
             "id": 38825372,
             "language": "reStructuredText",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-23T18:51:31Z",
-            "open_issues": 359,
+            "last_commit": "2026-10-24T18:03:57Z",
+            "open_issues": 355,
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1367,
+            "stars": 1368,
             "topics": [
               "documentation",
               "odoo"
@@ -137,7 +137,7 @@
             "id": 362812569,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-10-23T18:51:28Z",
+            "last_commit": "2026-10-24T18:03:55Z",
             "open_issues": 35,
             "owner": "odoo",
             "repo": "design-themes",
@@ -311,7 +311,7 @@
                 "open_issues": 63,
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24545,
+                "stars": 24547,
                 "topics": [
                   "community-driven",
                   "configuration",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:07:02.792Z",
+    "last_updated": "2026-10-24T18:04:15.671Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Odoo resources",
