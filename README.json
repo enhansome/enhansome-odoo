@@ -15,11 +15,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T21:16:48Z",
-            "open_issues": 11214,
+            "last_commit": "2026-11-06T19:58:31Z",
+            "open_issues": 11275,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55574,
+            "stars": 55602,
             "topics": [
               "apps",
               "business",
@@ -65,11 +65,11 @@
             "id": 38825372,
             "language": "reStructuredText",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-05T21:21:40Z",
-            "open_issues": 356,
+            "last_commit": "2026-11-06T20:41:06Z",
+            "open_issues": 359,
             "owner": "odoo",
             "repo": "documentation",
-            "stars": 1374,
+            "stars": 1373,
             "topics": [
               "documentation",
               "odoo"
@@ -137,7 +137,7 @@
             "id": 362812569,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-05T21:16:51Z",
+            "last_commit": "2026-11-06T19:58:34Z",
             "open_issues": 36,
             "owner": "odoo",
             "repo": "design-themes",
@@ -307,11 +307,11 @@
                 "id": 7212645,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-05T21:05:14Z",
+                "last_commit": "2026-11-06T18:50:41Z",
                 "open_issues": 59,
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24550,
+                "stars": 24551,
                 "topics": [
                   "community-driven",
                   "configuration",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:26:46.049Z",
+    "last_updated": "2026-11-06T20:50:22.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Odoo resources",
