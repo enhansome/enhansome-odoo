@@ -15,11 +15,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T19:58:31Z",
-            "open_issues": 11275,
+            "last_commit": "2026-11-07T18:59:22Z",
+            "open_issues": 11250,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55602,
+            "stars": 55623,
             "topics": [
               "apps",
               "business",
@@ -48,7 +48,7 @@
             "open_issues": 201,
             "owner": "odoo",
             "repo": "owl",
-            "stars": 1601,
+            "stars": 1602,
             "topics": []
           },
           "first_seen": "2026-08-29T00:00:17.624Z"
@@ -65,7 +65,7 @@
             "id": 38825372,
             "language": "reStructuredText",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-06T20:41:06Z",
+            "last_commit": "2026-11-07T18:59:20Z",
             "open_issues": 359,
             "owner": "odoo",
             "repo": "documentation",
@@ -93,7 +93,7 @@
             "open_issues": 123,
             "owner": "it-projects-llc",
             "repo": "odoo-saas-tools",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "odoo"
             ]
@@ -112,7 +112,7 @@
             "id": 98264816,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-05T08:50:11Z",
+            "last_commit": "2026-11-07T18:16:46Z",
             "open_issues": 4,
             "owner": "guohuadeng",
             "repo": "app-odoo",
@@ -137,7 +137,7 @@
             "id": 362812569,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-06T19:58:34Z",
+            "last_commit": "2026-11-07T18:59:17Z",
             "open_issues": 36,
             "owner": "odoo",
             "repo": "design-themes",
@@ -194,7 +194,7 @@
                 "open_issues": 24,
                 "owner": "Tecnativa",
                 "repo": "doodba",
-                "stars": 554,
+                "stars": 555,
                 "topics": [
                   "docker",
                   "doodba",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:50:22.461Z",
+    "last_updated": "2026-11-07T19:22:05.255Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Odoo resources",
