@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 333,833 | 🐛 21 | 🌐 Python | 📅 2026-11-08.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,082 | 🐛 22 | 🌐 Python | 📅 2026-11-08.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,13 +47,13 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 333,83
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,699 | 🐛 11,285 | 🌐 Python | 📅 2026-11-10 - Community Official Repositories
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,724 | 🐛 11,318 | 🌐 Python | 📅 2026-11-11 - Community Official Repositories
 * [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,602 | 🐛 202 | 🌐 TypeScript | 📅 2026-11-10 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,376 | 🐛 375 | 🌐 reStructuredText | 📅 2026-11-10 - Documentation Official Repositories
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,377 | 🐛 375 | 🌐 reStructuredText | 📅 2026-11-11 - Documentation Official Repositories
 * [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 637 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
-* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 462 | 🐛 4 | 🌐 HTML | 📅 2026-11-10 - Repository with modules for all versions by sunpop
-* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 205 | 🐛 36 | 🌐 HTML | 📅 2026-11-10 - Design Themes Official Repositories
-* [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 161 | 🐛 30 | 🌐 Python | 📅 2026-11-02 - Repository with modules for SaaS Businesses.
+* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 462 | 🐛 4 | 🌐 HTML | 📅 2026-11-11 - Repository with modules for all versions by sunpop
+* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 205 | 🐛 36 | 🌐 HTML | 📅 2026-11-11 - Design Themes Official Repositories
+* [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 30 | 🌐 Python | 📅 2026-11-02 - Repository with modules for SaaS Businesses.
 * [Odoo](https://github.com/odoo) - The Official GitHub repos
 * [OCA](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
 * [Odoo Enterprise](https://github.com/odoo/enterprise) - Enterprise Official Repositories
@@ -83,7 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 333,83
   * [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
 
 * Ides
-  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,554 | 🐛 61 | 🌐 Emacs Lisp | 📅 2026-11-09 - A editor that combines Emacs with Vim
+  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,552 | 🐛 63 | 🌐 Emacs Lisp | 📅 2026-11-09 - A editor that combines Emacs with Vim
   * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
   * [Pycharm](http://www.jetbrains.com/pycharm/) - An integrated development environment used in computer programming, specifically for the Python language
   * [Sublime Text](http://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
@@ -95,7 +95,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 333,83
   * [Jasper Report Server](https://github.com/mga-team-odoo/jasperserver) ⚠️ Archived: Compose report with iReport or JasperStudio and defined printing action in odoo to retrieve the report seamlessly.
 
 * CLI
-  * [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) ⭐ 161 | 🐛 37 | 🌐 Python | 📅 2026-11-09 - Useful scripts and utility functions, based on click-odoo
+  * [click-odoo-contrib](https://github.com/acsone/click-odoo-contrib) ⭐ 162 | 🐛 37 | 🌐 Python | 📅 2026-11-09 - Useful scripts and utility functions, based on click-odoo
   * [click-odoo](https://github.com/acsone/click-odoo) ⭐ 148 | 🐛 9 | 🌐 Python | 📅 2026-11-09 - Run python scripts in a Odoo environment
 
 * Linters
@@ -196,4 +196,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
