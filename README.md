@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,303 | 🐛 24 | 🌐 Python | 📅 2026-11-08.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,542 | 🐛 23 | 🌐 Python | 📅 2026-11-13.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,12 +47,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 334,30
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,747 | 🐛 11,290 | 🌐 Python | 📅 2026-11-12 - Community Official Repositories
-* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,602 | 🐛 202 | 🌐 TypeScript | 📅 2026-11-10 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,377 | 🐛 365 | 🌐 reStructuredText | 📅 2026-11-12 - Documentation Official Repositories
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,773 | 🐛 11,280 | 🌐 Python | 📅 2026-11-13 - Community Official Repositories
+* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,603 | 🐛 202 | 🌐 TypeScript | 📅 2026-11-10 - OWL web framework Official Repositories
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,377 | 🐛 367 | 🌐 reStructuredText | 📅 2026-11-13 - Documentation Official Repositories
 * [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 637 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
 * [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 462 | 🐛 4 | 🌐 HTML | 📅 2026-11-12 - Repository with modules for all versions by sunpop
-* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 205 | 🐛 36 | 🌐 HTML | 📅 2026-11-12 - Design Themes Official Repositories
+* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 205 | 🐛 36 | 🌐 HTML | 📅 2026-11-13 - Design Themes Official Repositories
 * [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 30 | 🌐 Python | 📅 2026-11-02 - Repository with modules for SaaS Businesses.
 * [Odoo](https://github.com/odoo) - The Official GitHub repos
 * [OCA](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
@@ -196,4 +196,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
