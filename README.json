@@ -15,11 +15,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T19:47:33Z",
-            "open_issues": 11331,
+            "last_commit": "2026-11-15T20:02:56Z",
+            "open_issues": 11337,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55794,
+            "stars": 55814,
             "topics": [
               "apps",
               "business",
@@ -65,8 +65,8 @@
             "id": 38825372,
             "language": "reStructuredText",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-14T19:47:44Z",
-            "open_issues": 360,
+            "last_commit": "2026-11-15T20:03:03Z",
+            "open_issues": 363,
             "owner": "odoo",
             "repo": "documentation",
             "stars": 1377,
@@ -137,7 +137,7 @@
             "id": 362812569,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-14T19:47:38Z",
+            "last_commit": "2026-11-15T20:03:01Z",
             "open_issues": 36,
             "owner": "odoo",
             "repo": "design-themes",
@@ -311,7 +311,7 @@
                 "open_issues": 63,
                 "owner": "syl20bnr",
                 "repo": "spacemacs",
-                "stars": 24554,
+                "stars": 24556,
                 "topics": [
                   "community-driven",
                   "configuration",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:53:04.171Z",
+    "last_updated": "2026-11-15T20:20:27.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Odoo resources",
