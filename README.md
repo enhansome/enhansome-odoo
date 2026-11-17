@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,253 | 🐛 21 | 🌐 Python | 📅 2026-11-16.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,478 | 🐛 19 | 🌐 Python | 📅 2026-11-17.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,12 +47,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,25
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,842 | 🐛 11,347 | 🌐 Python | 📅 2026-11-16 - Community Official Repositories
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,875 | 🐛 11,371 | 🌐 Python | 📅 2026-11-17 - Community Official Repositories
 * [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,603 | 🐛 204 | 🌐 TypeScript | 📅 2026-11-10 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,379 | 🐛 367 | 🌐 reStructuredText | 📅 2026-11-16 - Documentation Official Repositories
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,378 | 🐛 364 | 🌐 reStructuredText | 📅 2026-11-17 - Documentation Official Repositories
 * [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 637 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
-* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 463 | 🐛 4 | 🌐 HTML | 📅 2026-11-16 - Repository with modules for all versions by sunpop
-* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 205 | 🐛 37 | 🌐 HTML | 📅 2026-11-16 - Design Themes Official Repositories
+* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 463 | 🐛 4 | 🌐 HTML | 📅 2026-11-17 - Repository with modules for all versions by sunpop
+* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 205 | 🐛 37 | 🌐 HTML | 📅 2026-11-17 - Design Themes Official Repositories
 * [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 30 | 🌐 Python | 📅 2026-11-02 - Repository with modules for SaaS Businesses.
 * [Odoo](https://github.com/odoo) - The Official GitHub repos
 * [OCA](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
@@ -72,7 +72,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,25
   * [Odoo Code Search](http://www.odoo-code-search.com/). A searchable index of odoo source code.
 
 * Script
-  * [Odoo Install Script](https://github.com/Yenthe666/InstallScript) ⭐ 1,441 | 🐛 70 | 🌐 Shell | 📅 2026-09-20 - Install Script by Yenthe Van Ginneken
+  * [Odoo Install Script](https://github.com/Yenthe666/InstallScript) ⭐ 1,442 | 🐛 70 | 🌐 Shell | 📅 2026-09-20 - Install Script by Yenthe Van Ginneken
   * [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
   * [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
   * [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module.
@@ -83,7 +83,7 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,25
   * [ERPPeek](https://pypi.python.org/pypi/ERPpeek) provides both a fully featured low-level API, and an encapsulation of the methods on Active Record objects, plus helpers to administrate the server remotely ([docs](http://erppeek.readthedocs.org)).
 
 * Ides
-  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,558 | 🐛 63 | 🌐 Emacs Lisp | 📅 2026-11-09 - A editor that combines Emacs with Vim
+  * [Spacemacs](https://github.com/syl20bnr/spacemacs) ⭐ 24,561 | 🐛 63 | 🌐 Emacs Lisp | 📅 2026-11-09 - A editor that combines Emacs with Vim
   * [Visual Studio Code](https://code.visualstudio.com/) - A code editor redefined and optimized for building and debugging modern web and cloud applications
   * [Pycharm](http://www.jetbrains.com/pycharm/) - An integrated development environment used in computer programming, specifically for the Python language
   * [Sublime Text](http://www.sublimetext.com/) - A sophisticated text editor for code, markup and prose
@@ -196,4 +196,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
