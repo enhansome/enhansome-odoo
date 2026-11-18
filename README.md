@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,478 | 🐛 19 | 🌐 Python | 📅 2026-11-17.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,691 | 🐛 20 | 🌐 Python | 📅 2026-11-17.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,12 +47,12 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 335,47
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,875 | 🐛 11,371 | 🌐 Python | 📅 2026-11-17 - Community Official Repositories
-* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,603 | 🐛 204 | 🌐 TypeScript | 📅 2026-11-10 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,378 | 🐛 364 | 🌐 reStructuredText | 📅 2026-11-17 - Documentation Official Repositories
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 55,912 | 🐛 11,343 | 🌐 Python | 📅 2026-11-18 - Community Official Repositories
+* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,603 | 🐛 206 | 🌐 TypeScript | 📅 2026-11-10 - OWL web framework Official Repositories
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,379 | 🐛 374 | 🌐 reStructuredText | 📅 2026-11-18 - Documentation Official Repositories
 * [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 637 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
-* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 463 | 🐛 4 | 🌐 HTML | 📅 2026-11-17 - Repository with modules for all versions by sunpop
-* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 205 | 🐛 37 | 🌐 HTML | 📅 2026-11-17 - Design Themes Official Repositories
+* [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 463 | 🐛 4 | 🌐 HTML | 📅 2026-11-18 - Repository with modules for all versions by sunpop
+* [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 206 | 🐛 36 | 🌐 HTML | 📅 2026-11-18 - Design Themes Official Repositories
 * [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 30 | 🌐 Python | 📅 2026-11-02 - Repository with modules for SaaS Businesses.
 * [Odoo](https://github.com/odoo) - The Official GitHub repos
 * [OCA](https://github.com/OCA) - The GitHub repos for all Open Source work around Odoo (Odoo Community Association)
@@ -196,4 +196,4 @@ If you have any question about this opinionated list, do not hesitate to contact
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
