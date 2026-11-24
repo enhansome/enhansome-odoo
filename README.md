@@ -2,7 +2,7 @@
 
 A curated list of awesome Odoo resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,718 | 🐛 23 | 🌐 Python | 📅 2026-11-17.
+Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,931 | 🐛 24 | 🌐 Python | 📅 2026-11-17.
 
 * [Awesome Odoo ](#awesome-odoo-)
   * [Documentation](#documentation)
@@ -47,10 +47,10 @@ Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 336,71
 
 ## Repositories
 
-* [Odoo Community](https://github.com/odoo/odoo) ⭐ 56,055 | 🐛 11,372 | 🌐 Python | 📅 2026-11-24 - Community Official Repositories
-* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,602 | 🐛 206 | 🌐 TypeScript | 📅 2026-11-23 - OWL web framework Official Repositories
-* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,382 | 🐛 361 | 🌐 reStructuredText | 📅 2026-11-24 - Documentation Official Repositories
-* [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 636 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
+* [Odoo Community](https://github.com/odoo/odoo) ⭐ 56,077 | 🐛 11,425 | 🌐 Python | 📅 2026-11-24 - Community Official Repositories
+* [Odoo OWL web framework](https://github.com/odoo/owl) ⭐ 1,602 | 🐛 207 | 🌐 TypeScript | 📅 2026-11-24 - OWL web framework Official Repositories
+* [Odoo Documentation](https://github.com/odoo/documentation) ⭐ 1,382 | 🐛 367 | 🌐 reStructuredText | 📅 2026-11-24 - Documentation Official Repositories
+* [SaaS Tools](https://github.com/it-projects-llc/odoo-saas-tools) ⭐ 637 | 🐛 123 | 🌐 Python | 📅 2024-05-01 - Repository with System to sale and manage databases.
 * [Sunpop App Odoo](https://github.com/guohuadeng/app-odoo) ⭐ 462 | 🐛 4 | 🌐 HTML | 📅 2026-11-21 - Repository with modules for all versions by sunpop
 * [Odoo Design Themes](https://github.com/odoo/design-themes) ⭐ 206 | 🐛 35 | 🌐 HTML | 📅 2026-11-24 - Design Themes Official Repositories
 * [SaaS Addons](https://github.com/it-projects-llc/saas-addons) ⭐ 162 | 🐛 30 | 🌐 Python | 📅 2026-11-02 - Repository with modules for SaaS Businesses.

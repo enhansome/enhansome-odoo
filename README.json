@@ -15,11 +15,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T01:37:13Z",
-            "open_issues": 11372,
+            "last_commit": "2026-11-24T23:50:41Z",
+            "open_issues": 11425,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 56055,
+            "stars": 56077,
             "topics": [
               "apps",
               "business",
@@ -44,8 +44,8 @@
             "id": 178364606,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-23T11:53:56Z",
-            "open_issues": 206,
+            "last_commit": "2026-11-24T10:48:44Z",
+            "open_issues": 207,
             "owner": "odoo",
             "repo": "owl",
             "stars": 1602,
@@ -65,8 +65,8 @@
             "id": 38825372,
             "language": "reStructuredText",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-11-24T01:37:25Z",
-            "open_issues": 361,
+            "last_commit": "2026-11-24T23:50:53Z",
+            "open_issues": 367,
             "owner": "odoo",
             "repo": "documentation",
             "stars": 1382,
@@ -93,7 +93,7 @@
             "open_issues": 123,
             "owner": "it-projects-llc",
             "repo": "odoo-saas-tools",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "odoo"
             ]
@@ -137,7 +137,7 @@
             "id": 362812569,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-24T01:37:20Z",
+            "last_commit": "2026-11-24T23:50:49Z",
             "open_issues": 35,
             "owner": "odoo",
             "repo": "design-themes",
@@ -503,7 +503,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:08:14.224Z",
+    "last_updated": "2026-11-24T23:51:06.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Odoo resources",
